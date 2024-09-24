@@ -1,0 +1,44 @@
+.list {
+    font-family: "Andale Mono";
+
+}
+
+body {
+    font-family: 'Luminari', serif;
+    background-color: #F4EBD0;
+    color: #3A3A3A;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #EFE6C2;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+
+.img-costume {
+    margin-left: 155px;
+}
+
+.list {
+    margin-left: 80px;
+    width: 700px;
+    font-size: 1.2em;
+
+}
+
+.text {
+    margin-left: 676px;
+    margin-top: -550px;
+    font-size: large;
+}
+
+ol li {
+    margin-bottom: 15px;
+}
